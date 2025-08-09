@@ -1,0 +1,7 @@
+[package]
+name = "wikix2parquet"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies.rs-wikix2parquet]
+path = "../../.."
